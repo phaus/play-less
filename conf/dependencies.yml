@@ -1,0 +1,6 @@
+self: play -> play-less 0.1
+
+require:
+    - play
+    - com.asual.lesscss -> lesscss-engine 1.3.0
+    - com.yahoo.platform.yui -> yuicompressor 2.3.6
